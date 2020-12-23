@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254795013073",
+    "project_id": "qatroslogbook",
+    "storage_bucket": "qatroslogbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254795013073:android:42dde97b58624d463b5ef0",
+        "android_client_info": {
+          "package_name": "com.project.qatros_logbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254795013073-5r53ihh26s13fnq431hc8rpjf6k029eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc2szrS9ZoGRhNbZ3xU35IfjizJ4Dp-mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254795013073-5r53ihh26s13fnq431hc8rpjf6k029eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
